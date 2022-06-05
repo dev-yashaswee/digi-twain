@@ -2,4 +2,4 @@ baseURL = "https://dev-yashaswee.github.io/digi-twain/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-learn"
-publishDir = "/digi-twain"
+publishDir = "/docs"
