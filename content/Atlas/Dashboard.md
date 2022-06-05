@@ -1,7 +1,14 @@
 ---
-title: 'Dashboard'
-date: 2022-06-06T02:46:04+05:30
-draft: true
+dg-home: true
+dg-publish: true
+cssclass: dashboard  
+date created: Sunday, June 5th 2022, 1:09:43 am
+date modified: Monday, June 6th 2022, 2:56:17 am
+title: Interests
 ---
 
-# This is a Dashboard!
+# Interests
+
+- `fas:Industry` Areas
+	- [[Game Development]]
+- `fas:ProjectDiagram` Projects

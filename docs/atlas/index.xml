@@ -5,15 +5,23 @@
     <link>https://dev-yashaswee.github.io/digi-twain/atlas/</link>
     <description>Recent content in Atlas on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 02:46:04 +0530</lastBuildDate><atom:link href="https://dev-yashaswee.github.io/digi-twain/atlas/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dev-yashaswee.github.io/digi-twain/atlas/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dashboard</title>
+      <title>Interests</title>
       <link>https://dev-yashaswee.github.io/digi-twain/atlas/dashboard/</link>
-      <pubDate>Mon, 06 Jun 2022 02:46:04 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dev-yashaswee.github.io/digi-twain/atlas/dashboard/</guid>
-      <description>This is a Dashboard! </description>
+      <description>Interests fas:Industry Areas [[Game Development]] fas:ProjectDiagram Projects </description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://dev-yashaswee.github.io/digi-twain/atlas/meta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev-yashaswee.github.io/digi-twain/atlas/meta/</guid>
+      <description>Meta 1. Goals </description>
     </item>
     
   </channel>
